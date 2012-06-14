@@ -1,1 +1,17 @@
-=========================================Samurai Smartphone Services Samurai Purchase Sample Application=========================================This is a Sample Application that uses the Samurai Purchase provided CONIT Co., Ltd.This Application contains code derived from Dungeons Example(<sdk>/extras/google/market_billing/) by The Android Open Source Project.Updates:Modified to do with Samurai Purchase the Generation of nonce.Modified to do with Samurai Purchase the authentication of nonce and signature.Remove the PURCHASED_ITEMS_TABLE does not use.
+=========================================
+Samurai Smartphone Services 
+Samurai Purchase Sample Application
+=========================================
+
+This is a Sample Application that uses the Samurai Purchase provided CONIT Co., Ltd.
+This Application contains code derived from Dungeons Example(<sdk>/extras/google/market_billing/) by The Android Open Source Project.
+
+Updates:
+Modified to do with Samurai Purchase the Generation of nonce.
+Modified to do with Samurai Purchase the authentication of nonce and signature.
+Remove the PURCHASED_ITEMS_TABLE does not use.
+
+
+
+
+
