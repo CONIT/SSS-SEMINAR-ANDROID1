@@ -1,1 +1,12 @@
-=========================================Samurai Smartphone Services Samurai Purchase Sample Application=========================================これは株式会社コニットが提供するSamurai Purchaseを利用したサンプルアプリです。このアプリはAndroid Open Source Projectか作成したDungeons Exampleアプリ(<sdk>/extras/google/market_billing/)から派生したコードが含まれています。更新内容:nonce生成処理をSamurai Purchaseで行うように修正。nonce,signatureの認証をSamurai Purchaseで行うように修正。使用しないTable(PURCHASED_ITEMS_TABLE_NAME)を削除
+=========================================
+Samurai Smartphone Services 
+Samurai Purchase Sample Application
+=========================================
+
+これは株式会社コニットが提供するSamurai Purchaseを利用したサンプルアプリです。
+このアプリはAndroid Open Source Projectか作成したDungeons Exampleアプリ(<sdk>/extras/google/market_billing/)から派生したコードが含まれています。
+
+更新内容:
+nonce生成処理をSamurai Purchaseで行うように修正。
+nonce,signatureの認証をSamurai Purchaseで行うように修正。
+使用しないTable(PURCHASED_ITEMS_TABLE_NAME)を削除
