@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+      Copyright (C) 2012 CONIT Co., Ltd.
+ 
+      Licensed under the Apache License, Version 2.0 (the "License");
+      you may not use this file except in compliance with the License.
+      You may obtain a copy of the License at
+
+           http://www.apache.org/licenses/LICENSE-2.0
+
+      Unless required by applicable law or agreed to in writing, software
+      distributed under the License is distributed on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+      See the License for the specific language governing permissions and
+      limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">SSS青空文庫</string>
+    <string name="dialog_be_connecting_web">読み込み中</string>
+    <string name="dialog_error_not_connected">ネットワークがオフになっています。</string>
+    <string name="dialog_title_error_connection_down">通信が遮断されました。</string>
+    <string name="dialog_title_error_system">通信に失敗しました。</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="dialog_btn_cancel">キャンセル</string>
+    <string name="loading">読み込み中…</string>
+    <string name="read_more">もっと読む…</string>
+    <string name="reload">再読み込み…</string>
+    <string name="dialog_getting_book_info">書籍情報を取得しています…</string>
+    <string name="dialog_getting_book">書籍をダウンロードしています…</string>
+    <string name="dialog_title_download_complete">ダウンロード完了</string>
+    <string name="dialog_download_complete">書籍を表示します。</string>
+    <string name="dialog_cancel_download">書籍情報のダウンロードをキャンセルしました。</string>
+    <string name="dialog_error_download">データのダウンロードに失敗しました。\nお手数ですが接続を確認し、\n時間を空けてもう一度やり直してください。</string>
+
+    <!-- Billing -->
+    <string name="notification_buy_result">書籍の購入が完了しました。</string>
+    <string name="notification_buy_result_ng">書籍の購入に失敗しました。</string>
+    <string name="notification_book">書籍</string>
+    <string name="notification_buy_finish">%1$sの購入ができました。</string>
+    <string name="notification_restore">購入情報を復元しました。</string>
+    <string name="notification_urge_download">購入画面でダウンロードして下さい。</string>
+
+    <!-- list_item_store_dl -->
+    <string name="dl_count">DL数:%1$d</string>
+
+    <!-- common -->
+    <string name="pay">有料</string>
+    <string name="free">無料</string>
+
+    <!-- StoreListFragment -->
+    <string name="get_all_product_list">該当する書籍データの取得が完了しました。</string>
+    <string name="app_about">注意事項</string>
+    <string name="app_annotation">このアプリはサンプルアプリではありますが、アプリ内課金機能を実装しており、アプリから購入を行うとGoogle Play ストアからの請求が発生します。</string>
+
+    <!-- PurchaseActivity -->
+    <string name="download">ダウンロード</string>
+    <string name="read">読む</string>
+
+    <!-- BookViewerFragment -->
+    <string name="dialog_loading_book">書籍を読み込んでいます...</string>
+
+    <!-- SettingsActivity -->
+    <string name="restore">リストア</string>
+    <string name="restore_ok">リストアに成功しました。</string>
+    <string name="restore_ng">リストアに失敗しました。</string>
+    <string name="restore_start">リストアを開始します。</string>
+    <string name="notice">[アプリ使用上の注意事項]\n
+このアプリはサンプルアプリではありますが、アプリ内課金機能を実装しており、アプリから購入を行うとGoogle Play ストアからの請求が発生します。\n
+これによって生じたいかなる不利益に対しても保証は出来かねますので、あらかじめご了承下さい。\n\n\nCopyright (C) 2012 CONIT Co., Ltd.</string>
+
+    <!-- MypageListFragment -->
+    <string name="empty_purchase_book_data">書籍データが存在しません。</string>
+    <string name="delete_purchase_book_data">書籍情報を消去しました。</string>
+    <string name="delete_purchase_book_data_fail">書籍情報を消去に失敗しました。</string>
+
+    <string name="signature">PackageManagerのsignatureをSHA1でハッシュ化した値</string>
+</resources>
