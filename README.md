@@ -1,4 +1,3 @@
-
 Licensed under the Apache License, Version 2.0 
 
 
@@ -57,7 +56,8 @@ Samurai PurchaseとGoogle Play ストアと連携し、課金処理を確認す�
 アプリの動作確認のみを行いたい場合はapkファイルをダウンロードしインストールして下さい。  
   
 [インストール方法]  
-apkファイルをダウンロードして、端末にインストールを行なって下さい。  
+Google Play ストアからインストールを行なって下さい。  
+https://play.google.com/store/apps/details?id=jp.co.conit.sss.sp.ex1  
   
 [使用上の注意事項]  
 ・このアプリはサンプルアプリではありますが、アプリ内課金機能を実装しており、アプリから購入を行うとGoogle Play ストアからの請求が発生します。  
